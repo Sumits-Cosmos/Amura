@@ -131,7 +131,7 @@ export default function AuthPage() {
         description: "You have successfully logged in.",
       });
       navigate("/");
-    } catch (error: any) {
+    } catch (error) {
       console.error("Login error:", error);
       toast({
         title: "Login Failed",
@@ -177,7 +177,7 @@ export default function AuthPage() {
           description: "Please check your email for verification instructions.",
         });
       }
-    } catch (error: any) {
+    } catch (error) {
       console.error("Signup error:", error);
       toast({
         title: "Signup Failed",
