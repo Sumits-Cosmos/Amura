@@ -2,7 +2,7 @@
 
 **Amura** is a modern event registration portal built to enhance student engagement and streamline event participation. The platform features an intuitive UI/UX and optimized performance, resulting in improved engagement and faster navigation for users. 
 
-🔗 **Live Demo:** https://amura-ten.vercel.app/ :contentReference[oaicite:2]{index=2}
+🔗 **Live Demo:** https://amura-ten.vercel.app/ 
 
 ## 🚀 Features
 
