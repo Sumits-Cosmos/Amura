@@ -1,6 +1,6 @@
 # Amura
 
-**Amura** is a modern event registration portal built to enhance student engagement and streamline event participation. The platform features an intuitive UI/UX and optimized performance, resulting in improved engagement and faster navigation for users. :contentReference[oaicite:1]{index=1}
+**Amura** is a modern event registration portal built to enhance student engagement and streamline event participation. The platform features an intuitive UI/UX and optimized performance, resulting in improved engagement and faster navigation for users. 
 
 🔗 **Live Demo:** https://amura-ten.vercel.app/ :contentReference[oaicite:2]{index=2}
 
@@ -16,7 +16,7 @@
   - Uses Nodemailer to send confirmation and update emails.
 - 🔐 **Authentication & Database**
   - Supabase powers user data and session management.
-- 💡 Built with React, Node.js & TypeScript for modern, type-safe development. :contentReference[oaicite:3]{index=3}
+- 💡 Built with React, Node.js & TypeScript for modern, type-safe development. 
 
 ## 🧠 Tech Stack
 
