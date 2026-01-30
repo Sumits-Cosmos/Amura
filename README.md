@@ -34,11 +34,11 @@
 
 Follow these steps to run the project locally:
 
-### 1. Clone Repo
-```bash
+# 1. Clone Repo
+
 git clone https://github.com/Sumits-Cosmos/Amura.git
 cd Amura
-2. Install Dependencies
+# 2. Install Dependencies
 
 If using Bun (recommended):
 
@@ -49,7 +49,7 @@ Or with npm:
 
 npm install
 
-3. Create Environment Variables
+# 3. Create Environment Variables
 
 Create a .env file and add:
 
